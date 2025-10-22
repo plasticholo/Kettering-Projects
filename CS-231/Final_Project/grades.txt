@@ -1,0 +1,7 @@
+John 42
+Zach 92
+Taylor 85
+David 75
+Will 68
+Alexis 97
+Aaliyah 82
